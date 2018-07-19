@@ -24,7 +24,7 @@
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^7.1.2",
-    "coffee-script": ">= 1.6",
+    "coffeescript": ">= 1.6",
     "grunt": "~1.0",
     "grunt-contrib-coffee": "~1.0",
     "grunt-contrib-concat": "~1.0",
